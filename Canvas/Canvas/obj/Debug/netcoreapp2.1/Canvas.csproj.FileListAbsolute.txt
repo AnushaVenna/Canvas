@@ -1,0 +1,11 @@
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\bin\Debug\netcoreapp2.1\Canvas.deps.json
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\bin\Debug\netcoreapp2.1\Canvas.runtimeconfig.json
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\bin\Debug\netcoreapp2.1\Canvas.runtimeconfig.dev.json
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\bin\Debug\netcoreapp2.1\Canvas.dll
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\bin\Debug\netcoreapp2.1\Canvas.pdb
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\obj\Debug\netcoreapp2.1\Canvas.csprojAssemblyReference.cache
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\obj\Debug\netcoreapp2.1\Canvas.csproj.CoreCompileInputs.cache
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\obj\Debug\netcoreapp2.1\Canvas.AssemblyInfoInputs.cache
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\obj\Debug\netcoreapp2.1\Canvas.AssemblyInfo.cs
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\obj\Debug\netcoreapp2.1\Canvas.dll
+C:\Users\anusha.venna\Documents\Graphics\Canvas\Canvas\obj\Debug\netcoreapp2.1\Canvas.pdb
